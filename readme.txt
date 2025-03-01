@@ -19,6 +19,3 @@ THANKS
 Thanks to beauxq, and without the Subversion rando none of these other projects would have been possible for me:
 https://github.com/SubversionRando/SubversionRando
 
-shortmessageboxes.ips by neen:
-Shortened fanfares, included by default for Lost World rando
-
